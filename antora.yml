@@ -8,4 +8,4 @@ asciidoc:
     xrefstyle: short@
     url-repo: https://github.com/riscv/riscv-library
 nav:
-- modules/ROOT/nav-start.adoc
+- modules/ROOT/nav.adoc
