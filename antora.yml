@@ -1,6 +1,7 @@
 name: riscv-library
-version: '0.1'
 title: RISC-V Documentation Library
+version: 0.1
+start_page: index.adoc
 asciidoc:
   attributes:
     release-date: 11-28-2024
