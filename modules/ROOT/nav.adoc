@@ -1,2 +1,2 @@
 * xref:index.adoc[]
-* xref:isa::nav.adoc[]
+* xref:isa::isa:nav.adoc[]
