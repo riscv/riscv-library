@@ -1,2 +1,2 @@
 * xref:index.adoc[]
-* xref:riscv-unprivileged.adoc[]
+* xref:isa:index.adoc[]
