@@ -1,4 +1,4 @@
-= Welcome to the {page-component-version}
+= Welcome to the RISC-V Documentation Library
 :description: An introduction to and compendium of changes to the RISC-V Documentation Library.
 :doctype: book
 
