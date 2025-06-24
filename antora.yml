@@ -1,12 +1,6 @@
 name: riscv-library
 title: RISC-V Documentation Library
-version: 0.1
-start_page: index.adoc
-asciidoc:
-  attributes:
-    release-date: 11-28-2024
-    source-language: asciidoc@
-    xrefstyle: short@
-    url-repo: https://github.com/riscv/riscv-library
+version: 1.0
+start_page: ROOT::index.adoc
 nav:
-- modules/ROOT/nav.adoc
+  - modules/ROOT/nav.adoc
