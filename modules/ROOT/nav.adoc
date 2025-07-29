@@ -1,6 +1,6 @@
-* Home
+.Home
 ** xref:riscv-library:ROOT:index.adoc[]
-* ISA Specifications
+.ISA Specifications
 ** xref::riscv-isa-manul:isa:priv:nav.adoc[Privileged ISA Specification]
 *** xref:riscv-isa-manual:isa:priv-intro.adoc[Introduction]
 *** xref:riscv-isa-manual:priv:priv-csrs.adoc[Control and Status Registers (CSRs)]
