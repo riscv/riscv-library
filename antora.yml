@@ -1,6 +1,6 @@
 name: riscv-library
 title: RISC-V Documentation Library
 version: 1.0
-start_page: ROOT::index.adoc
+#start_page: ROOT::index.adoc
 nav:
-  - modules/ROOT/nav.adoc
+  - nav.adoc
