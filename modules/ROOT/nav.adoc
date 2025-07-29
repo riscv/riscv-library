@@ -1,8 +1,5 @@
 * Home
 ** xref:riscv-library:ROOT:index.adoc[]
 * ISA Specifications
-#** xref:riscv-isa-manual:priv:nav.adoc[Privileged ISA Specification]
-#** xref:riscv-isa-manual:unpriv:nav.adoc[Unprivileged ISA Specification]
-#- modules/ROOT/nav.adoc
-- xref:riscv-isa-manual:unpriv:nav.adoc
-- xref:riscv0isa0manual:priv:nav.adoc
+** xref:riscv-isa-manual:priv:nav.adoc[Privileged ISA Specification]
+** xref:riscv-isa-manual:unpriv:nav.adoc[Unprivileged ISA Specification]
