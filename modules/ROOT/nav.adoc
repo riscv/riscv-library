@@ -15,4 +15,4 @@
 *** xref:priv-insns.adoc[RISC-V Privileged Instruction Set Listings]
 *** xref:priv-history.adoc[History]
 *** xref:bibliography.adoc[Bibliography]
-** xref:isa:unpriv:nav.adoc[Unprivileged ISA Specification]
+** xref:isa:unpriv::nav.adoc[Unprivileged ISA Specification]
