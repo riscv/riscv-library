@@ -3,7 +3,7 @@
 
 .ISA Specifications
 ** xref:riscv-isa-manual::priv:nav.adoc[Privileged ISA Specification]
-*** xref:riscv-isa-manual::isa:priv-intro.adoc[Introduction]
+*** xref:riscv-isa-manual::priv-intro.adoc[Introduction]
 *** xref:RISCV-ISA-MANUAL:priv::priv-csrs.adoc[Control and Status Registers (CSRs)]
 *** xref:machine.adoc[Machine-Level ISA, Version 1.13]
 *** xref:indirect-csr.adoc["Smcsrind/Sscsrind" Indirect CSR Access, version 1.0]
