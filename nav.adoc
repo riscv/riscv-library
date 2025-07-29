@@ -1,5 +1,5 @@
 .Home
-** xref:riscv-library:ROOT:index.adoc[]
+** xref:ROOT:index.adoc[]
 
 .ISA Specifications
 ** [Privileged ISA Specification]
