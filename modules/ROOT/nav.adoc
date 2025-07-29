@@ -1,2 +1,6 @@
-* xref:ROOT:index.adoc[]
-* xref:ISA Specifications
+* Home
+** xref:riscv-library:ROOT:index.adoc[]
+* ISA Specifications
+** xref:riscv-isa-manual:ROOT:index.adoc[RISC-V ISA Manual]
+** xref:riscv-isa-manual:priv:nav.adoc[Privileged ISA Specification]
+** xref:riscv-isa-manual:unpriv:nav.adoc[Unprivileged ISA Specification]
