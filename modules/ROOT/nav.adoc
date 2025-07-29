@@ -2,9 +2,9 @@
 ** xref:riscv-library:ROOT:index.adoc[]
 
 .ISA Specifications
-** xref:riscv-isa-manual::priv:nav.adoc[Privileged ISA Specification]
-*** xref:riscv-isa-manual::priv-intro.adoc[Introduction]
-*** xref:RISCV-ISA-MANUAL:priv::priv-csrs.adoc[Control and Status Registers (CSRs)]
+** xref:isa::priv:nav.adoc[Privileged ISA Specification]
+*** xref:isa::priv-intro.adoc[Introduction]
+*** xref:isa:priv::priv-csrs.adoc[Control and Status Registers (CSRs)]
 *** xref:machine.adoc[Machine-Level ISA, Version 1.13]
 *** xref:indirect-csr.adoc["Smcsrind/Sscsrind" Indirect CSR Access, version 1.0]
 *** xref:smcntrpmf.adoc["Smcntrpmf" Cycke and Instret Privilege Mode Filtering, Version 1.0]
