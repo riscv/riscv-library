@@ -1,7 +1,7 @@
 * Home
 ** xref:riscv-library:ROOT:index.adoc[]
 * ISA Specifications
-** xref:isa:priv:nav.adoc[Privileged ISA Specification]
+** xref::isa:priv:nav.adoc[Privileged ISA Specification]
 *** xref:isa:priv-intro.adoc[Introduction]
 *** xref:priv:priv-csrs.adoc[Control and Status Registers (CSRs)]
 *** xref:machine.adoc[Machine-Level ISA, Version 1.13]
